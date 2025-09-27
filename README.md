@@ -8,12 +8,6 @@ Dashboard นี้ใช้สำหรับจัด Tier ลูกค้า�
 - จัด Tier อัตโนมัติ (Tier A / B / C)
 - แสดง Dashboard แบบมืออาชีพพร้อม Insights สำหรับ Executive
 
----
-
-## How to Run
-ติดตั้ง dependencies ก่อน:
-```bash
-pip install -r requirements.txt
 
 ---
 

@@ -118,8 +118,9 @@ streamlit run lead_dashboard26.final.py
 
 Developed by **Kanokkarn Paisakul**
 
-* 💼 [LinkedIn Profile](https://www.linkedin.com/in/kanokkarnpaisakul/)
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/kanokkarn-paisakul-464601a5/)
 * 📧 Contact: kanokkarn.paisakul@gmail.com
+
 
 ---
 

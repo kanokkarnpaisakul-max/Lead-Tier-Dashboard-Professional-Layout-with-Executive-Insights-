@@ -26,7 +26,9 @@ Dashboard นี้ใช้สำหรับจัด Tier ลูกค้า�
 ---
 
 ## ⚡ Live Demo
-Try it here: [Streamlit Link](https://lead-tier-dashboard.streamlit.app)
+Try it here: [Streamlit Link](https://lead-tier-board.streamlit.app/)
+
+
 
 ---
 

@@ -12,7 +12,8 @@ A professional **Lead Tier Dashboard** built with **Python** and **Streamlit** t
 ---
 
 ## 📸 Screenshot
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Dashboard Screenshot](Lead Tier Board (2).png)
+
 
 ---
 

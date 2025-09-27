@@ -29,6 +29,14 @@ Dashboard นี้ใช้สำหรับจัด Tier ลูกค้า�
 Try it here: [Streamlit Link](https://lead-tier-board.streamlit.app/)
 
 
+## Sample Data
+This repository includes a sample dataset for quick testing:  
+- [sample_leads.csv](sample_leads.csv)  
+
+You can upload this CSV file in the dashboard to see how the lead scoring and tiering works.
+
+
+
 
 ---
 

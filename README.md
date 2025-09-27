@@ -10,6 +10,13 @@ Dashboard นี้ใช้สำหรับจัด Tier ลูกค้า�
 
 ---
 
+## How to Run
+ติดตั้ง dependencies ก่อน:
+```bash
+pip install -r requirements.txt
+
+---
+
 ## 🚀 Features
 - Interactive lead scoring & tier classification
 - Executive-ready layout with charts and tables
